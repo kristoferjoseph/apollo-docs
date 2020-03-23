@@ -59,6 +59,7 @@ exports.handler = async function http (req) {
   <script>window.addEventListener('load', function (event) {
       GraphQLPlayground.init(document.getElementById('root'), {
         // options as 'endpoint' belong here
+        endpoint: '/graphql'
       })
     })</script>
 </body>
