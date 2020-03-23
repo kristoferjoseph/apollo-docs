@@ -1,2 +1,0 @@
-# apollo-docs
-Begin app
